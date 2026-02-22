@@ -68,9 +68,9 @@ The dataset includes details about Netflix movies and TV shows such as:
 ---
 
 ## 🧠 Author
-**[Your Name]**  
+sanjay udayagiri 
 Data Analyst | Power BI Enthusiast  
-📧 [Your Email] | 🌐 [LinkedIn Profile]
+📧 sanjayudayagiri1003@gmail.com 
 
 ---
 
