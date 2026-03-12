@@ -37,11 +37,6 @@ In this project, I built an **interactive Power BI dashboard** to understand pat
 
 ---
 
-## 🖼️ Dashboard Preview
-*(Add your Power BI dashboard screenshot here)*
-
----
-
 ## 📁 Dataset
 The dataset includes details about Netflix movies and TV shows such as:
 - Title  
